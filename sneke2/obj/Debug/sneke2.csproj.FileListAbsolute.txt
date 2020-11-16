@@ -1,0 +1,10 @@
+C:\Users\sjsha\Documents\Project\Projekty Git\snake\sneke2\sneke2\bin\Debug\sneke2.exe.config
+C:\Users\sjsha\Documents\Project\Projekty Git\snake\sneke2\sneke2\bin\Debug\sneke2.exe
+C:\Users\sjsha\Documents\Project\Projekty Git\snake\sneke2\sneke2\bin\Debug\sneke2.pdb
+C:\Users\sjsha\Documents\Project\Projekty Git\snake\sneke2\sneke2\obj\Debug\sneke2.csprojAssemblyReference.cache
+C:\Users\sjsha\Documents\Project\Projekty Git\snake\sneke2\sneke2\obj\Debug\sneke2.Form1.resources
+C:\Users\sjsha\Documents\Project\Projekty Git\snake\sneke2\sneke2\obj\Debug\sneke2.Properties.Resources.resources
+C:\Users\sjsha\Documents\Project\Projekty Git\snake\sneke2\sneke2\obj\Debug\sneke2.csproj.GenerateResource.cache
+C:\Users\sjsha\Documents\Project\Projekty Git\snake\sneke2\sneke2\obj\Debug\sneke2.csproj.CoreCompileInputs.cache
+C:\Users\sjsha\Documents\Project\Projekty Git\snake\sneke2\sneke2\obj\Debug\sneke2.exe
+C:\Users\sjsha\Documents\Project\Projekty Git\snake\sneke2\sneke2\obj\Debug\sneke2.pdb
